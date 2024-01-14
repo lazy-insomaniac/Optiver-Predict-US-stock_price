@@ -44,8 +44,7 @@ You are recommened to upload the data files accordingly as suggested below
  # All other info has been given in the main notebook.
 
  # Results
- We were sucessfully able to create a model that predicts the target value . We were also able to achieve quite low mean absolute error  4.54 over public test data which is a good score in accordance with the   
- actual kaggle challenge's leaderboard.
+ Acheived a MAE of 4.54 approx.
 
  # Thank you 
 
