@@ -11,7 +11,7 @@ Optuna : pip install optuna
 
 
 * Set up for the project ⚙️
-Use kaggle notebooks as they have more resources and paths in notebook are set according to them.
+ *Use kaggle notebooks as they have more resources and paths in notebook are set according to them.
 Import the notebook in Kaggle.
 You are recommened to upload the data files accordingly as suggested below
   * /kaggle/input/optiver-trading-at-the-close/optiver2023
