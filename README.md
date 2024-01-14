@@ -8,7 +8,7 @@ Original training Data : https://drive.google.com/file/d/1HUClzGiyTt2jWmVAVUrbWt
 Preprocessed published on Kaggle : https://www.kaggle.com/datasets/dragon54/public-balanced-data/data   ( Recommended to save time ) 
 
 
-# About the Data 
+# About the Data ⬆️
 * train.csv : We get a tabular data containing the last 10 minute data of Nasdaq exchange.
  * There are 200 stocks , 55 entries of each stock each stock each day , 11000 entries in a single day.
 *revealed_targets : This data is given by API on 0th seconds_in_bucket value of any day . They are the actual/ true target values of previous day.
@@ -30,7 +30,7 @@ You are recommened to upload the data files accordingly as suggested below
 
 
 
-# Steps taken (Concise) 
+# Steps taken (Concise) 🪜
 * 1. On analysis the very first observation was that our dataset had some missing values , this was dealt by imputing medians over grouped data in the dataset to ensure that correct medians were being put for each stock_id and date_id
 * 2. Another problem with the dataset as mentioned in the description was that not all time buckets had all stock_id , i.e. there were completely missing records in the dataset , again used median to deal with this as given in the code 
 * 3. As the above steps were consuming a lot of time decided to publish the processed data as public and directly add it for usage 
@@ -41,9 +41,9 @@ You are recommened to upload the data files accordingly as suggested below
 * 8. Also trained XGB model but after removing outliers as an experiment , but XGB proved to be better 
 * 9. Finally Implemented the API along with Lightgbm model.
  
- # All other info has been given in the main notebook.
+ # All other info has been given in the main notebook.📒
 
- # Results
+ # Results 
  Acheived a MAE of 4.54 approx.
 
  # Thank you 
