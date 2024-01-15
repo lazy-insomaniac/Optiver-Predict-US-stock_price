@@ -42,10 +42,7 @@ You are recommened to upload the data files accordingly as suggested below
 * 9. Finally Implemented the API along with Lightgbm model.
  
  # All other info has been given in the main notebook.📒
-
- # Results 
- Acheived a MAE of 4.54 approx.
-
+ 
  # Thank you 
 
 
