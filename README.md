@@ -19,7 +19,7 @@ Optuna : pip install optuna
 
 # Set up for the project ⚙️
 Use kaggle notebooks as they have more resources and paths in notebook are set according to them.
-Import the notebook in Kaggle.
+Import the notebook in Kaggle. For LSTM you  are recommened to turn on GPU 
 You are recommened to upload the data files accordingly as suggested below
   * /kaggle/input/optiver-trading-at-the-close/optiver2023
   * /kaggle/input/optiver-trading-at-the-close/public_timeseries_testing_util.py
