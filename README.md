@@ -1,5 +1,5 @@
 # Optiver-Predict-US-stock_price
-This repo is for an open project by VLG on predicting closing price of stocks. Our task was to predict the closing proce i.e. 'target' for the last three days in the data provided by Nasdaq 100 
+This repo is for an open project by VLG on predicting closing price of stocks. Our task was to predict the closing price i.e. 'target' for the last three days in the data provided by Nasdaq 100 
 ![image](https://github.com/lazy-insomaniac/Optiver-Predict-US-stock_price/assets/114395022/9c6fd3c3-fe6b-4b26-9f4b-c7066209a79d)
 
 
